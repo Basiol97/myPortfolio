@@ -1,11 +1,28 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
 
+
 /*
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Design
 */
+.bootstrap_color {
+
+	color: #7952b3;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+.Note {
+
+			color: red;
+		}
+
+.title_fontDesign{
+
+	font-size: 1.6rem;
+	color: #212931;
+}
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -153,6 +170,9 @@ input, select, textarea {
 		font-size: 1rem;
 		line-height: 2.375;
 	}
+	
+	
+
 
 	a {
 		-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
